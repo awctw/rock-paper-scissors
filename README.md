@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-Basic console line Rock, Paper, Scissors game against the computer. Best of five rounds, scores are recorded to declare the final winner.
+Rock, Paper, Scissors game against the computer with a basic ui. Best of five rounds, current scores are displayed to declare the final winner.
